@@ -1,0 +1,28 @@
+body{
+    font-family: cursive;
+    background: #DF2935;
+    color: #558B6E;
+}
+
+.blox{
+    background: #861B47;
+    color: #C2868E;
+}
+
+p{
+    margin-top: 30px;
+    font-weight: bolder;
+    letter-spacing: 5px;
+    font-size: 25px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    font-size: 15px;
+    background-color: #dd3f49;
+    text-align: center;
+    line-height: 4;
+    text-shadow: 5px 5px 5px #4a0d11;
+}
